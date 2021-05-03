@@ -1,0 +1,10 @@
+
+we will have our 8x8 grid(board)
+position will be determined by two variables ( X, Y)
+queen's position= Queen(X,Y);
+opponent's position= Opponent(X,Y);
+
+Determining if an opponent is attackable in a row or a column{
+  if Queen(X) or Queen(y) is == to opponent(X) or opponent(y)
+  then attackable
+}
